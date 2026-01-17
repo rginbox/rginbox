@@ -36,10 +36,10 @@ My technical stack includes (but isn’t limited to):
 I welcome collaboration, feedback, and opportunities to contribute to challenging projects. Feel free to reach out!
 
 * 🌎 Website: [https://rakesh.arcavio.com](https://rakesh.arcavio.com)
-* 📫 Email: *your email here*
+* 📫 Email: rakesh@arcavio.com
 * 🔗 LinkedIn: [https://www.linkedin.com/in/rakesh-kumar-gupta/](https://www.linkedin.com/in/rakesh-kumar-gupta/)
 
 ---
 
-[1]: https://rakesh.arcavio.com/?utm_source=chatgpt.com "Rakesh Kumar Gupta | Full Stack Developer & Software Engineer"
-[2]: https://in.linkedin.com/in/rakesh-kumar-gupta?utm_source=chatgpt.com "Rakesh Kumar Gupta - Technical Project Lead"
+[1]: https://rakesh.arcavio.com/?utm_source=github.com "Rakesh Kumar Gupta | Full Stack Developer & Software Engineer"
+[2]: https://in.linkedin.com/in/rakesh-kumar-gupta?utm_source=github.com "Rakesh Kumar Gupta - Technical Project Lead"
