@@ -1,10 +1,10 @@
-## 👨‍💻 **Rakesh Kumar Gupta — Full Stack Developer & Software Engineer**
+## 👨‍💻 **Rakesh Kumar Gupta**
 
 I am **Rakesh Kumar Gupta**, a dedicated and results-driven **Full Stack Developer and Software Engineer** with a passion for building **modern, scalable, and high-performance web applications**. With a strong commitment to clean code, robust architecture, and intuitive user experiences, I focus on delivering solutions that solve real-world problems and drive business value. ([Rakesh Kumar Gupta Portfolio][1])
 
 Over the years, I have developed expertise across the full software development lifecycle — from gathering requirements and designing system architecture to building efficient backend services and creating responsive, polished frontend interfaces. My work is driven by a curiosity for emerging technologies and best practices, coupled with a collaborative mindset that thrives in team environments.
 
-Professionally, I also bring experience in leading technical projects where I’ve been responsible for designing, building, and scaling high-performance applications using modern frameworks, tools, and cloud infrastructure. I enjoy mentoring peers, optimizing workflows, and contributing to projects with long-term maintainability in mind. ([LinkedIn][2])
+Professionally, I also bring experience in leading technical projects where I’ve been responsible for designing, building, and scaling high-performance applications using modern frameworks, tools, and cloud infrastructure. I enjoy mentoring peers, optimizing workflows, and contributing to projects with long-term maintainability in mind. 
 
 ### 🎯 Core Strengths
 
